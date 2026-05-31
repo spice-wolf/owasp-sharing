@@ -1,0 +1,4 @@
+interface:
+  display_name: "OWASP Secure Design"
+  short_description: "Discuss secure designs with OWASP checklists"
+  default_prompt: "Use $owasp-secure-design to evaluate this design proposal with the relevant OWASP checklist categories."
